@@ -20,7 +20,7 @@
 
   <dependencies>
 
-  <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
+  <!-- https://mvnrepository.com/artifact/org.springframework/spring-coreskakd -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-core</artifactId>
